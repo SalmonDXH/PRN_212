@@ -1,0 +1,14 @@
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.exe
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.deps.json
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.runtimeconfig.json
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.dll
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.pdb
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.AssemblyInfoInputs.cache
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.AssemblyInfo.cs
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.csproj.CoreCompileInputs.cache
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.dll
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\refint\OOP4_Dictionary.dll
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.pdb
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.genruntimeconfig.cache
+E:\FPT\2025\Summer_2025\PRN212\Code\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\ref\OOP4_Dictionary.dll
