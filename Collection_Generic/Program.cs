@@ -85,3 +85,18 @@ for (int i = 0; i < employees.Count; i++)
 }
 Console.WriteLine("---------Employees sau khi sắp xếp:");
 employees.ForEach(e => Console.WriteLine(e));
+
+
+// Câu 4: Sửa thông tin nhân viên
+Console.WriteLine("Thong tin cua nhan vien dau truoc khi doi la: \n" + employees[1]);
+employees[0].setName("Name changed");
+employees[0].setBirthday(new DateTime(2010, 12, 31));
+employees[0].setIdCard("222");
+Console.WriteLine("Thong tin cua nhan vien dau sau khi doi la: \n" + employees[1]);
+
+// Câu 5: Xóa thông tin nhân viên
+Console.WriteLine("Danh sách nhân viên trước khi xóa nhân viên là:");
+employees.ForEach(e => Console.WriteLine(e));
+employees.Remove(employees[0]);
+Console.WriteLine("Danh sách nhân viên sau khi xóa nhân viên là:");
+employees.ForEach(e => Console.WriteLine(e));
